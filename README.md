@@ -1,1 +1,1 @@
-# me
+* [Размышлизмы](thoughts/README.md)
